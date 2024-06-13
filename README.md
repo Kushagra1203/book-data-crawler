@@ -43,7 +43,7 @@ bookscraper/
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Scrapy
 - MySQL
 
